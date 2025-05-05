@@ -5,7 +5,7 @@ I am a Linux and FOSS enthusiast. My main field in Computer Science is Software 
 - 🔭 I’m currently working on: TBD
 - 🌱 I’m currently learning: Secure Programming and Penetration Testing
 - 📫 How to reach me: Contact me on [Telegram](https://t.me/Daniele_53) or send me a [mail](mailto:danielefabiano@protonmail.com)
-- ⚡ Fun fact: My username is the combination of the name of [Ichigo Kurosaki's Zanpakutō Spirit](https://bleach.fandom.com/wiki/Zangetsu_(Zanpakut%C5%8D_spirit)) and the number I use the most when I’m playing [organized basketball in a team](https://tensa53.github.io/assets/img/about/photo-basketball.jpg)
+- ⚡ Fun fact: My username is the combination of the name of [Ichigo Kurosaki's Bankai Zanpakutō Spirit](https://bleach.fandom.com/wiki/Zangetsu_(Zanpakut%C5%8D_spirit)) and the number I use the most when I’m playing [organized basketball in a team](https://tensa53.github.io/assets/img/about/photo-basketball.jpg)
 
 <!--
 **Tensa53/tensa53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
